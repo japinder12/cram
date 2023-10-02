@@ -14,7 +14,7 @@ function App() {
         <Route path="/" element={<Landing />} />
         <Route path="/login" element={<Login />} />
         <Route path="/user/:userId" element={<UserPage />} />
-        <Route path="/chatbot/:userId/:sessionId" element={<Chatbot />} />
+        <Route path="/chat/:userId/:sessionId" element={<Chatbot />} />
       </Routes>
     </BrowserRouter>
   )
