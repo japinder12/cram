@@ -4,7 +4,7 @@
 - clone the repo using ```git clone https://github.com/JoelJaison/cram.git```
 - run ```cd cram/frontend``` to go into the frontend directory
 - run ```npm install``` to install all third party packages
-- to start the dev server, run npm start
+- to start the dev server, run ```npm start```
 
 ### Editing Your Page
 - Let's say I'm working on the login page and I want to add a button
